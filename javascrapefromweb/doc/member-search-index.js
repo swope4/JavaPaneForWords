@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mypoemUI","c":"Paneforwords","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"mypoemUI","c":"Paneforwords","l":"Paneforwords()","u":"%3Cinit%3E()"}];updateSearchResults();
